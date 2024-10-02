@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "MasterrMC.aternos.me",
+		"port": "60662",
+		"username": "ItzJohn"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
@@ -10,6 +10,6 @@
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
 		"holdDuration": 5000,
-		"retryDelay": 15000
+		"retryDelay": 0
 	}
 }
